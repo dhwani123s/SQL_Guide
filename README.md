@@ -1,6 +1,6 @@
 # SQL_beginner-
 
-An easy-to-follow series of 30 short tutorials on SQL. 
+An easy-to-follow series of 31 short tutorials presented as queries on SQL to help beginners understand the basics.
 
 The database used - https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms 
 
