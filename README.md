@@ -1,6 +1,10 @@
-# SQL_beginner- Guide
+# Learn SQL Guide
 
-An easy-to-follow series of 31 short tutorials presented as queries on SQL to help beginners understand the basics.
+An easy-to-follow series of 31 short tutorials presented as queries on SQL to help beginners understand the SQL basics.
+
+SQL queries play an important role in - data Retrieval, Manipulation, Cleaning, Summarization, Ad Hoc Analysis, Data Integration etc.
+
+<img src = "https://github.com/dhwani123s/gifs/blob/main/kura-5-tricky-sql-queries-solved-1.jpeg" width = 1000 height = 600/>
 
 The database used - https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms 
 
