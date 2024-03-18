@@ -1,4 +1,4 @@
-# Learn SQL Guide
+# Learn SQL - A 31 Tutotial Guide
 
 An easy-to-follow series of 31 short tutorials presented as queries on SQL to help beginners understand the SQL basics.
 
